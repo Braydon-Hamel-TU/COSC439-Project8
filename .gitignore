@@ -1,0 +1,11 @@
+# Python cache / build files
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS files
+.DS_Store
+
+# Editor settings
+.vscode/
+.idea/
